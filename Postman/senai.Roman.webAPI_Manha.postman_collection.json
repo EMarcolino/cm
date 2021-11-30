@@ -156,7 +156,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios",
+							"raw": "http://localhost:5000/api/Temas",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -164,7 +164,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios"
+								"Temas"
 							]
 						}
 					},
@@ -176,7 +176,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/2",
+							"raw": "http://localhost:5000/api/Temas/2",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -184,7 +184,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"Temas",
 								"2"
 							]
 						}
@@ -197,7 +197,7 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios",
+							"raw": "http://localhost:5000/api/Temas",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -205,7 +205,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios"
+								"Temas"
 							]
 						}
 					},
@@ -217,7 +217,7 @@
 						"method": "PUT",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/3",
+							"raw": "http://localhost:5000/api/Temas/3",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -225,7 +225,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"Temas",
 								"3"
 							]
 						}
@@ -238,7 +238,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/1",
+							"raw": "http://localhost:5000/api/Temas/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -246,7 +246,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"Temas",
 								"1"
 							]
 						}
@@ -264,7 +264,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios",
+							"raw": "http://localhost:5000/api/Situacaos",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -272,7 +272,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios"
+								"Situacaos"
 							]
 						}
 					},
@@ -284,7 +284,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/2",
+							"raw": "http://localhost:5000/api/Situacaos/2",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -292,7 +292,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"Situacaos",
 								"2"
 							]
 						}
@@ -305,7 +305,7 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios",
+							"raw": "http://localhost:5000/api/Situacaos",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -313,7 +313,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios"
+								"Situacaos"
 							]
 						}
 					},
@@ -325,7 +325,7 @@
 						"method": "PUT",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/3",
+							"raw": "http://localhost:5000/api/Situacaos/3",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -333,7 +333,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"Situacaos",
 								"3"
 							]
 						}
@@ -346,7 +346,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/1",
+							"raw": "http://localhost:5000/api/Situacaos/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -354,7 +354,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"Situacaos",
 								"1"
 							]
 						}
@@ -372,7 +372,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios",
+							"raw": "http://localhost:5000/api/Projetos",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -380,7 +380,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios"
+								"Projetos"
 							]
 						}
 					},
@@ -392,7 +392,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/2",
+							"raw": "http://localhost:5000/api/Projetos/2",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -400,7 +400,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"Projetos",
 								"2"
 							]
 						}
@@ -413,7 +413,7 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios",
+							"raw": "http://localhost:5000/api/Projetos",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -421,7 +421,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios"
+								"Projetos"
 							]
 						}
 					},
@@ -433,7 +433,7 @@
 						"method": "PUT",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/3",
+							"raw": "http://localhost:5000/api/Projetos/3",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -441,7 +441,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"Projetos",
 								"3"
 							]
 						}
@@ -454,7 +454,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/1",
+							"raw": "http://localhost:5000/api/Projetos/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -462,7 +462,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"Projetos",
 								"1"
 							]
 						}
@@ -480,7 +480,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios",
+							"raw": "http://localhost:5000/api/TipoUsuarios",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -488,7 +488,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios"
+								"TipoUsuarios"
 							]
 						}
 					},
@@ -500,7 +500,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/2",
+							"raw": "http://localhost:5000/api/TipoUsuarios/2",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -508,7 +508,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"TipoUsuarios",
 								"2"
 							]
 						}
@@ -521,7 +521,7 @@
 						"method": "POST",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios",
+							"raw": "http://localhost:5000/api/TipoUsuarios",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -529,7 +529,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios"
+								"TipoUsuarios"
 							]
 						}
 					},
@@ -541,7 +541,7 @@
 						"method": "PUT",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/1",
+							"raw": "http://localhost:5000/api/TipoUsuarios/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -549,7 +549,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"TipoUsuarios",
 								"1"
 							]
 						}
@@ -562,7 +562,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:5000/api/Usuarios/5",
+							"raw": "http://localhost:5000/api/TipoUsuarios/5",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -570,7 +570,7 @@
 							"port": "5000",
 							"path": [
 								"api",
-								"Usuarios",
+								"TipoUsuarios",
 								"5"
 							]
 						}
